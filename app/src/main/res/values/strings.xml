@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EggTimer</string>
+    <string name="an_egg">An egg</string>
+    <string name="go">GO!</string>
+    <string name="default_time">0:30</string>
+</resources>
